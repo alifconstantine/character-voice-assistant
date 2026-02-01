@@ -12,7 +12,7 @@ Proyek ini adalah asisten suara interaktif yang menggabungkan kecerdasan LLM (Op
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/alifconstantine/character-voice-assistant.git
-cd Clone-Voice
+cd character-voice-assistant
 ```
 
 ### 2. Setup Virtual Environment (Rekomendasi)
